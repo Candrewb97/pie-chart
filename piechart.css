@@ -1,0 +1,35 @@
+.circle {
+	width: 450px;
+}
+.Quarter1 {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border-top-left-radius: 200px;
+	float: left;
+}
+.Quarter2{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	margin-left: 201px;
+	border-top-right-radius: 200px
+}
+
+.Quarter3{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border-bottom-left-radius: 200px;
+	margin-top: 1px;
+}
+.Quarter4{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border-bottom-right-radius: 200px;
+	margin-top: -200px;
+	margin-left: 201px;
+	
+}
+
